@@ -1,0 +1,141 @@
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body, html{
+    background-color:rgb(228, 219, 202);
+}
+/* .nav img{
+    margin: 10px;
+    width: 190px;
+    height: 15vh;
+} */
+body::-webkit-scrollbar {
+    display: none;
+  }
+.nav{
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(46, 134, 105);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+ a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    cursor: pointer;
+    
+}
+.logo h1 img{
+ margin-top:7px;
+    height: 18vh;
+width: 28vh;
+}
+.box{
+    margin: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.nav2 h1{
+    margin-top: 200px;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.text h1{
+    background-color:rgb(228, 219, 202);
+    margin-top: 0%;
+    padding: 0%;
+
+}
+.text h2{
+        background-color:rgb(228, 219, 202);
+    font-size: 2rem;
+    font-weight: 300;
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    margin-top: 50px;
+    padding: 5px;
+    border-radius: 10px;
+     height: 550px;
+     margin-left: 60px;
+     width: 550px;
+     display: flex;
+     border: 5px solid rgb(104, 87, 87);
+}
+
+.arya h1{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.arya {
+    margin-top: 20vh;
+}
+.but{
+    display: flex;
+    margin-top:8vh ;
+}
+#button{
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(1, 15, 15);
+    background-color: rgb(202, 159, 187);
+    font-size: 2rem;
+    height: 8vh;
+    width: 25vh;
+   
+}
+.text{
+     width: 10000000vh;
+     height: 10vh;
+     background-color: rgb(255, 255, 255);
+     margin-left: 30vh;
+     margin-top: 20vh;
+}
+.VIDEO{    
+    margin: 14vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.boxii h1{
+    color: rgb(37, 48, 58);
+}
+
+
+.boxii{
+    margin-left: 37vh;
+    border-radius: 19px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 150px;
+    width: 120vh;
+    background-color: rgb(203, 206, 176);
+}
+.socialIcons{
+    margin-left: 45vh ;
+    font-size: 3rem;
+    
+}
+.boxii2 h1{
+    display: flex;
+    justify-self: center;
+     padding: 5px;
+    font-size: 1em;
+    font-weight: 200;
+    color: rgb(0, 0, 0);
+}
+/* .nav a {
+    display: flex;
+    gap: 1rem;
+} */
